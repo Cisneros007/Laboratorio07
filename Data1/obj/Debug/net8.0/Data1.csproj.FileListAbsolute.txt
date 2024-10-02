@@ -1,0 +1,15 @@
+C:\Users\Alumno\source\repos\semana07\Data1\bin\Debug\net8.0\Data1.deps.json
+C:\Users\Alumno\source\repos\semana07\Data1\bin\Debug\net8.0\Data1.dll
+C:\Users\Alumno\source\repos\semana07\Data1\bin\Debug\net8.0\Data1.pdb
+C:\Users\Alumno\source\repos\semana07\Data1\bin\Debug\net8.0\Entity.dll
+C:\Users\Alumno\source\repos\semana07\Data1\bin\Debug\net8.0\Entity.pdb
+C:\Users\Alumno\source\repos\semana07\Data1\obj\Debug\net8.0\Data1.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\semana07\Data1\obj\Debug\net8.0\Data1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\source\repos\semana07\Data1\obj\Debug\net8.0\Data1.AssemblyInfoInputs.cache
+C:\Users\Alumno\source\repos\semana07\Data1\obj\Debug\net8.0\Data1.AssemblyInfo.cs
+C:\Users\Alumno\source\repos\semana07\Data1\obj\Debug\net8.0\Data1.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\semana07\Data1\obj\Debug\net8.0\Data1.csproj.Up2Date
+C:\Users\Alumno\source\repos\semana07\Data1\obj\Debug\net8.0\Data1.dll
+C:\Users\Alumno\source\repos\semana07\Data1\obj\Debug\net8.0\refint\Data1.dll
+C:\Users\Alumno\source\repos\semana07\Data1\obj\Debug\net8.0\Data1.pdb
+C:\Users\Alumno\source\repos\semana07\Data1\obj\Debug\net8.0\ref\Data1.dll
